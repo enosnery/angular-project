@@ -1,0 +1,15 @@
+{
+  "name": "alurabank",
+  "version": "1.0.0",
+  "description": "Aplicação de teste - Angular/TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "teste1",
+    "compile": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^2.3.2"
+  }
+}
